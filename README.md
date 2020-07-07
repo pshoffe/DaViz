@@ -2,6 +2,7 @@
 Data Viz Website for Story Telling With Data Class (CMU 2020)
 
 # About Me
+![Me and My Dog](IMG_0513.jpg)
 [a bizzare bird](https://pschoff.github.io/)
 
 # More Dope Stuff
