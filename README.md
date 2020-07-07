@@ -2,7 +2,7 @@
 Data Viz Website for Story Telling With Data Class (CMU 2020)
 
 # About Me
-a bizzare bird
+[a bizzare bird](https://pschoff.github.io/)
 
 # More Dope Stuff
 Pretty dope
@@ -13,7 +13,7 @@ Did not dissapoint
 ### Portfolio
 Cool beans
 
-* First Assignment
+* [First Assignment](another-page.md)
 
 # Peter W. Schoffelen
 *“Reality can be beaten with enough imagination.”
