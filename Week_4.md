@@ -26,7 +26,7 @@ I picked these visualizations as I am a frequent user of the outdoors but don't 
         - Source: CRS, data from U.S. Fish and Wildlife Service, Wildlife and Sport Fish Restoration Program, 1939through 2019 WR Apportionments (includes Hunter Ed), at
         https://wsfrprograms.fws.gov/Subpages/GrantPrograms/WR/WRApportionmentsHE-1939-2019.xlsx.
 
-![Week%204%20d297d5f467f346a3924b0365b134a61e/Untitled.png](img/Untitled.png)
+![Week%204%20d297d5f467f346a3924b0365b134a61e/Untitled.png](Untitled.png)
 
 A separate set of visualizations that I felt also, while very solid, could be improved for the aspect of telling a better story.
 
